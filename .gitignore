@@ -1,0 +1,9 @@
+*.diff
+#go.sum
+.idea/
+bin/
+etc/
+conf/
+log/
+.DS_Store
+vendor/
